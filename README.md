@@ -3,5 +3,5 @@
 ## Työaikakirjanpito
 Päivämäärä | Aika | Tehtävä
 ------------ | ------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+13.8.2020 | 10:36 | Tee README file
+
