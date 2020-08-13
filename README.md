@@ -1,3 +1,3 @@
 # Sulautetut järjestelmät: sääasema
 
-## Tyäaikakirjanpito
+## Työaikakirjanpito
