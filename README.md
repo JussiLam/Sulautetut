@@ -8,7 +8,7 @@ Päivämäärä | Aika | Tehtävä
 ## Asennus Ohjeet
 
 ## EsimerkkiKoodiLaatikko
-* Käytetyt kielet:
+Käytetyt kielet:
 * HTML
 * CSS
 * Node
