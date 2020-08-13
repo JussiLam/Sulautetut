@@ -13,3 +13,7 @@ Käytetyt kielet:
 * CSS
 * Node
 * React
+## Harjoitustyössä käytetty rajapinta
+
+tie.digitraffic.fi/api/v3/metadata/weather-sensors
+
