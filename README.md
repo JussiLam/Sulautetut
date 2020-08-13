@@ -15,4 +15,4 @@ Käytetyt kielet:
 * React
 ## Harjoitustyössä käytetty rajapinta
 
-tie.digitraffic.fi/api/v3/metadata/weather-sensors
+http://tie.digitraffic.fi/api/v3/metadata/weather-sensors
